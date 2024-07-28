@@ -1,11 +1,11 @@
 # Login reCAPTCHA Prototype
 
-This repository contains a prototype for a login system with Google reCAPTCHA integration. It is designed to provide a secure authentication mechanism by preventing automated bots from logging in.
+This repository contains a prototype for a login system with Google reCAPTCHA with Instagram Integration. It is designed to provide a secure authentication mechanism by preventing automated bots from logging in.
 
 ## Features
 
 - User login form with reCAPTCHA verification
-- Integration with Google reCAPTCHA v2
+- Integration with Google reCAPTCHA v3
 - Basic user authentication system
 
 ## Technologies Used
@@ -15,7 +15,7 @@ This repository contains a prototype for a login system with Google reCAPTCHA in
 - JavaScript
 - PHP
 - MySQL
-- Google reCAPTCHA v2
+- Google reCAPTCHA v3
 
 ## Setup Instructions
 
@@ -28,7 +28,7 @@ This repository contains a prototype for a login system with Google reCAPTCHA in
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/loginrecaptchaprototype.git
+    git clone https://github.com/xyukii/loginrecaptchaprototype.git
     cd loginrecaptchaprototype
     ```
 
